@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello there..
+
+Welcome to my world of code.
+
+I'm writing [a book on Solidus](https://solidusbook.com) and support the Solidus community on [Slack](https://slack.solidus.io) and [Solidus Github](https://github.com/solidusio), [Solidus Contrib Github](https://github.com/solidusio-contrib) in my spare time.
+
+If you like what you are seeying feel free sponsor me, send an email, or follow me [on Twitter](https://twitter.com/pberkenbosch)
+
+<iframe src="https://github.com/sponsors/peterberkenbosch/button" title="Sponsor peterberkenbosch" height="35" width="107" style="border: 0;"></iframe>
+
 
 <!--
 **peterberkenbosch/peterberkenbosch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
