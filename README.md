@@ -6,6 +6,8 @@ I'm writing [a book on Solidus](https://solidusbook.com) and support the Solidus
 
 If you like what you are seeying feel free to [sponsor me](https://github.com/sponsors/peterberkenbosch), send an email, or follow me [on Twitter](https://twitter.com/pberkenbosch)
 
+<a href="https://ruby.social/@phb" rel="me"><img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-1DA1F2?style=for-the-badge&logo=mastodon&logoColor=white"></a>
+
 <!--
 **peterberkenbosch/peterberkenbosch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
