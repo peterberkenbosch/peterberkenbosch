@@ -4,9 +4,9 @@ Welcome to my world of code.
 
 I'm writing [a book on Solidus](https://solidusbook.com) and support the Solidus community on [Slack](https://slack.solidus.io) and [Solidus Github](https://github.com/solidusio), [Solidus Contrib Github](https://github.com/solidusio-contrib) in my spare time.
 
-If you like what you are seeying feel free to [sponsor me](https://github.com/sponsors/peterberkenbosch), send an email, or follow me [on Twitter](https://twitter.com/pberkenbosch)
+If you like what you are seeying feel free to [sponsor me](https://github.com/sponsors/peterberkenbosch), send an email, or follow me [on Mastodon](https://ruby.social/@phb)
 
-<a href="https://ruby.social/@phb" rel="me"><img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-1DA1F2?style=for-the-badge&logo=mastodon&logoColor=white"></a>
+<a rel="me" href="https://ruby.social/@phb">Mastodon</a>
 
 <!--
 **peterberkenbosch/peterberkenbosch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
