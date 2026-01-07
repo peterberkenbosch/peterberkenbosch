@@ -2,8 +2,6 @@
 
 Welcome to my world of code.
 
-I'm writing [a book on Solidus](https://solidusbook.com) and support the Solidus community on [Slack](https://slack.solidus.io) and [Solidus Github](https://github.com/solidusio), [Solidus Contrib Github](https://github.com/solidusio-contrib) in my spare time.
-
 If you like what you are seeying feel free to [sponsor me](https://github.com/sponsors/peterberkenbosch), send an email, or follow me [on Twitter](https://twitter.com/pberkenbosch)
 
 <!--
